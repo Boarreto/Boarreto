@@ -1,7 +1,7 @@
 # Vitor Boarreto
 
 
-Me chamo Vitor Alberto Boarreto, tenho 24 anos e sou natural do Interior de São Paulo. Atualmente, estou cursando Engenharia da computação na USF de Bragança Paulista. Sou apaixonado por tecnologia e pelos avanços que ela proporciona e pode proporcionar.
+Me chamo Vitor Alberto Boarreto, tenho 24 anos e sou natural do Interior de São Paulo. Atualmente, estou cursando Engenharia da computação na USF de Bragança Paulista. Sou apaixonado por tecnologia e pelos avanços que ela proporciona e pode proporcionar. 
 E fascinado pela área de cybersecurity.
 
 <p align="left">
