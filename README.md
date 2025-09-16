@@ -80,7 +80,7 @@ E fascinado pela área de cybersecurity.
 <img 
     align="left" 
     alt="KaliLinux" 
-    title="KaliLinu"
+    title="KaliLinux"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"
