@@ -76,6 +76,14 @@ Me chamo Vitor Alberto Boarreto, tenho 24 anos e sou natural do Interior de São
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"
 />
+<img 
+    align="left" 
+    alt="KaliLinux" 
+    title="KaliLinu"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"
+/>
 <br/>
 <br/>
 
