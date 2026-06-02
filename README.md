@@ -31,8 +31,8 @@
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="NextJS" 
+    title="NextJS"
     width="30px" 
     style="padding-right: 10px;" 
     src = "https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg"
@@ -41,8 +41,8 @@
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="FastAPI" 
+    title="FastAPI"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-plain-wordmark.svg"
@@ -58,24 +58,24 @@
 
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="supabase" 
+    title="supabase"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/supabase/supabase-original.svg"
 />
 <img 
     align="left" 
-    alt="NetBeans" 
-    title="NetBeans"
+    alt="TailWind" 
+    title="TailWind"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg"
 />
 <img 
     align="left" 
-    alt="KaliLinux" 
-    title="KaliLinux"
+    alt="react" 
+    title="react"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg"
