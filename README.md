@@ -35,7 +35,7 @@
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src = https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg
+    src = "https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg"
 />
 
 
@@ -45,7 +45,7 @@
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-plain-wordmark.svg"
 />
 <img 
     align="left" 
