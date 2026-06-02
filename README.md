@@ -62,7 +62,7 @@
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/supabase/supabase-original.svg"
 />
 <img 
     align="left" 
@@ -70,7 +70,7 @@
     title="NetBeans"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg"
 />
 <img 
     align="left" 
@@ -78,19 +78,9 @@
     title="KaliLinux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg"
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg"
 />
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boarreto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
