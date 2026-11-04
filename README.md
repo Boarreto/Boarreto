@@ -1,7 +1,5 @@
 # Vitor Boarreto
 
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
