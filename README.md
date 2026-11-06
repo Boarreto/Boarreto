@@ -99,7 +99,7 @@ substituir as planilhas e cuido dos lançamentos de ordens de produção.
 - **Sistema de RH:** desenvolvi um sistema novo para o RH, que antes
   trabalhava com planilhas. Hoje faço a manutenção e a evolução dele.
 - **Ordens de produção:** responsável pelos lançamentos de OPs.
-- 
+  
 **Sub-adquirente de meios de pagamento**: *Analista de suporte*
 - **Estoque de maquininhas (POS):** transformei o controle, que era feito em
   planilha, numa aplicação web integrada à API do painel do recebedor de
