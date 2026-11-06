@@ -72,4 +72,9 @@
 <br/>
 <br/>
 
+- **[Sistema de RH](https://github.com/Boarreto/sistema-rh-case)**: sistema interno
+  que substituiu as planilhas do RH de uma malharia, com férias, ASOs, separação
+  de PDFs em lote e portal do colaborador. Em uso pelo RH. Código privado; o
+  repositório traz o case com funcionalidades e arquitetura.
+
 
