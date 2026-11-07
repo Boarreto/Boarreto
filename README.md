@@ -108,7 +108,7 @@ substituir as planilhas e cuido dos lançamentos de ordens de produção.
   interno que substituiu as planilhas do RH de uma malharia. Código privado;
   o repositório traz o case com funcionalidades, arquitetura e telas com dados
   fictícios.
-- **[Estoque maquinas(POS)](https://github.com/Boarreto/estoque-maquinas-case)*:
+- **[Estoque maquinas(POS)](https://github.com/Boarreto/estoque-maquinas-case)**:
   controle de estoque de POS integrado
   à API do painel do recebedor de pagamentos (Next.js + Supabase).
 - **[Guitarra Herói](https://github.com/Boarreto/Guitarra-Heroi-1.8)**: jogo de
