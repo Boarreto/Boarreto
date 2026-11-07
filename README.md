@@ -62,8 +62,10 @@ Desenvolvedor full stack com foco em **sistemas de gestão e integrações**.
 Gosto de pegar processos que vivem em planilha e transformá-los em aplicações
 automatizadas, de ponta a ponta: banco de dados, API e interface.
  
-Hoje sou o desenvolvedor de uma malharia, onde criei um sistema de RH para
-substituir as planilhas e cuido dos lançamentos de ordens de produção.
+Hoje trabalho em uma malharia, onde criei um sistema de RH para
+substituir as planilhas, e um novo sistema completo de gestao da producao em fase de planejamento e
+cuido dos lançamentos de ordens de produção. 
+
  
 ---
  
