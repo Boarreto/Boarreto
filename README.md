@@ -70,7 +70,7 @@ ordens de produção.
 
 ### 🚀 Projetos em destaque
 
-- **[Meada · Gestão da produção](https://github.com/Boarreto/meada-case)** 🚧:
+- **[Meada · Gestão da produção](https://github.com/Boarreto/meada-sys-case)** 🚧:
   sistema de produção, estoque e custos de uma malharia, com apontamento em
   tempo real, tablets offline e integração com marketplaces (Next.js + FastAPI
   + PostgreSQL). Código privado; o repositório traz o case, atualizado a cada
