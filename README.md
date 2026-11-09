@@ -53,6 +53,16 @@
     style="padding-right: 10px;" 
     src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg"
 />
+
+<img 
+    align="left" 
+    alt="NextJS" 
+    title="NextJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"
+/>
+
 <br/>
 <br/>
 
