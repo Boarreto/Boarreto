@@ -38,7 +38,7 @@ ordens de produção.
 
 ### 💼 Experiência
 
-**Malharia (atual)**
+**Malharia (atual)**: *Analista de suporte técnico*
 - **Sistema de gestão da produção (em desenvolvimento):** sistema próprio para
   substituir o ERP têxtil nas áreas de produção, corte, estoque e custos. OP
   digital com tablets e etiquetas QR, apontamento de tempo em tempo real com
@@ -66,6 +66,7 @@ ordens de produção.
   humanizado a clientes, com resolução de problemas nos equipamentos e
   esclarecimento de dúvidas sobre liquidações e transações de lotes SLC.
 
+🖥️:Também possuo muita experiência em montagem e manutenção de computadores.
 ---
 
 ### 🚀 Projetos em destaque
